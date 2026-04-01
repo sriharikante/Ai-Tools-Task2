@@ -1,7 +1,8 @@
 # AI Tools Hub – Task 2
 
 🏠 Home Page 
-![photo_2026-04-01_12-36-04](https://github.com/user-attachments/assets/6f6fce18-804e-4a46-91c2-00f02fc7cf3d)
+![Uploading Screenshot 2026-04-01 124333.png…]()
+
 
 
 A webpage built using Nunjucks (templating engine) and Vite (bundler) as part of the internship Task 2 requirement.
