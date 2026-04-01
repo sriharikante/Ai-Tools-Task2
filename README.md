@@ -1,7 +1,7 @@
 # AI Tools Hub – Task 2
 
 🏠 Home Page 
-![Uploading Screenshot 2026-04-01 124333.png…]()
+<img width="1888" height="906" alt="Screenshot 2026-04-01 124333" src="https://github.com/user-attachments/assets/8b57da9a-58e7-4056-89e9-5dbf3f330773" />
 
 
 
