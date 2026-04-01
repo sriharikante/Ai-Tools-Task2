@@ -1,10 +1,3 @@
-Here you go — copy paste directly:
-
----
-
-**README.md**
-
-```markdown
 # AI Tools Hub – Task 2
 
 A webpage built using Nunjucks (templating engine) and Vite (bundler) as part of the internship Task 2 requirement.
@@ -23,7 +16,6 @@ A webpage built using Nunjucks (templating engine) and Vite (bundler) as part of
 ---
 
 ## 📁 Folder Structure
-
 ```
 ai-tools-task2/
 ├── src/
@@ -38,7 +30,6 @@ ai-tools-task2/
 ---
 
 ## ⚙️ How to Run
-
 ```bash
 # Clone the repo
 git clone https://github.com/sriharikante/Ai-Tools-Task2
@@ -79,7 +70,6 @@ Approximately 6–8 hours
 ---
 
 **Submission Message**
-
 ```
 Hi,
 
@@ -99,7 +89,6 @@ Thank you!
 ---
 
 **Nunjucks + Vite Explanation**
-
 ```
 🔧 Nunjucks (Templating Engine)
 Instead of writing everything in one plain HTML file, I structured the page
@@ -113,8 +102,3 @@ and writes the final index.html into the /dist folder automatically on build.
 This was my first time properly using a templating engine. Fixing the path
 issues between Nunjucks and Vite took some time, but once it worked, the whole
 build process made a lot of sense to me.
-```
-
----
-
-All three ready to copy paste! ✅
