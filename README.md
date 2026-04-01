@@ -62,7 +62,8 @@ npm run build
 
  🔗 Links
 
-- 🌐 Live: https://ai-tools-task-2.vercel.app/
+- 🌐 Live: https://ai-tools-task-2.vercel.app
+  
 - 💻 GitHub: https://github.com/sriharikante/Ai-Tools-Task2
 
 ---
