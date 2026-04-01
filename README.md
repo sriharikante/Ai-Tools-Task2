@@ -55,7 +55,7 @@ npm run build
 
 ---
 
-## 🔗 Links
+ 🔗 Links
 
 - 🌐 Live: https://ai-tools-task-2.vercel.app/
 - 💻 GitHub: https://github.com/sriharikante/Ai-Tools-Task2
@@ -65,12 +65,12 @@ npm run build
 ## ⏱️ Time Taken
 
 Approximately 6–8 hours
-```
 
----
+
+
 
 **Submission Message**
-```
+
 Hi,
 
 I have completed Task 2 of the internship.
@@ -84,12 +84,12 @@ The final compiled output is available in the /dist folder.
 Please let me know if anything needs to be changed.
 
 Thank you!
-```
 
----
+
+
 
 **Nunjucks + Vite Explanation**
-```
+
 🔧 Nunjucks (Templating Engine)
 Instead of writing everything in one plain HTML file, I structured the page
 inside a Nunjucks template (index.njk). It keeps the code clean and organized.
